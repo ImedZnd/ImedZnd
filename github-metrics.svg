@@ -404,7 +404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spring-petclinic/spring-petclinic-microservices</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distributed version of Spring Petclinic built with Spring Cloud</div>
@@ -457,7 +457,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awesome-selfhosted/awesome-selfhosted</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of Free Software network services and web applications which can be hosted on your own servers</div>
@@ -689,7 +689,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2022, 15:17:27 (timezone Africa/Tunis) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 May 2022, 16:18:38 (timezone Africa/Tunis) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
