@@ -398,7 +398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>instancio/instancio</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library for creating fully populated objects for your unit tests.</div>
@@ -705,7 +705,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2023, 15:15:31 (timezone Africa/Tunis) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 13 Jan 2023, 16:17:38 (timezone Africa/Tunis) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
