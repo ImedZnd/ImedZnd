@@ -451,7 +451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubero-dev/kubero</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps</div>
@@ -713,7 +713,7 @@ fix mapper</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2023, 23:13:17 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Oct 2023, 00:13:48 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
