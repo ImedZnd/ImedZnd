@@ -398,7 +398,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minio/minio</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High Performance Object Storage for AI</div>
@@ -699,7 +699,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Nov 2023, 19:17:55 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 20:11:14 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
