@@ -507,7 +507,7 @@
                                         <span>starred Nov 09 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">High Performance Object Storage for AI</div>
+                                <div class="field description">The Object Store for AI Data Infrastructure</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -747,7 +747,7 @@ ytjtyj</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2023, 09:18:05 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2023, 10:14:11 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
