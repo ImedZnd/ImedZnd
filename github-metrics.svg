@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2015 Commits
+                            2018 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#671e791</div>
-                                        <div class="message">Merge pull request #38 from keyrustunisie/feature-imp-repositories
+                                        <div class="sha">#4937bc5</div>
+                                        <div class="message">Merge pull request #39 from keyrustunisie/feature-imp-repositories
 
-remove test</div>
+fix pipeline</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2edc5ca</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#05133ab</div>
+                                        <div class="message">imp classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ remove test</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#38 remove test</span>
+                                        <span class="issue">#39 fix pipeline</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++0 --36</span></div>
+                                    <div>2 files changed <span class="code">++22 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ remove test</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#38 remove test</span>
+                                        <span class="issue">#39 fix pipeline</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++0 --36</span></div>
+                                    <div>2 files changed <span class="code">++22 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ remove test</div>
                                 <div class="details">
                                     <div>on branch <span class="code">feature-imp-repositories</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2edc5ca</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#05133ab</div>
+                                        <div class="message">imp classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ remove test</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f637c64</div>
-                                        <div class="message">Merge pull request #37 from keyrustunisie/feature-imp-repositories
+                                        <div class="sha">#671e791</div>
+                                        <div class="message">Merge pull request #38 from keyrustunisie/feature-imp-repositories
 
-feature crud</div>
+remove test</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3ff7417</div>
-                                        <div class="message">resources and repositories</div>
+                                        <div class="sha">#2edc5ca</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ feature crud</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2024, 11:17:19 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2024, 12:12:09 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
