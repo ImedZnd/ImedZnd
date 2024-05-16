@@ -34,13 +34,13 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2010 Commits
+                            2017 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#529c3fa</div>
-                                        <div class="message">Merge pull request #86 from keyrustunisie/delete-one-feed
+                                        <div class="sha">#a532588</div>
+                                        <div class="message">Merge pull request #88 from keyrustunisie/delete-one-feed
 
-all feeds</div>
+disable logs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#51dafd2</div>
-                                        <div class="message">all feeds</div>
+                                        <div class="sha">#cab248e</div>
+                                        <div class="message">disable logs</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ all feeds</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#86 all feeds</span>
+                                        <span class="issue">#88 disable logs </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++52 --0</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ all feeds</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#86 all feeds</span>
+                                        <span class="issue">#88 disable logs </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++52 --0</span></div>
+                                    <div>1 file changed <span class="code">++3 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ all feeds</div>
                                 <div class="details">
                                     <div>on branch <span class="code">delete-one-feed</span></div>
                                     <div class="commit">
-                                        <div class="sha">#51dafd2</div>
-                                        <div class="message">all feeds</div>
+                                        <div class="sha">#cab248e</div>
+                                        <div class="message">disable logs</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ all feeds</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c344530</div>
-                                        <div class="message">Merge pull request #85 from keyrustunisie/delete-one-feed
+                                        <div class="sha">#6c5bbd8</div>
+                                        <div class="message">Merge pull request #87 from keyrustunisie/delete-one-feed
 
-delete feed</div>
+fix-property</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f7c3f5f</div>
-                                        <div class="message">delete feed</div>
+                                        <div class="sha">#d494c79</div>
+                                        <div class="message">fix property</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ delete feed</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2024, 15:15:08 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2024, 16:15:23 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
