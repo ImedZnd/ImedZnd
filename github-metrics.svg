@@ -37,8 +37,8 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2127 Commits
+                            2137 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a132e9b</div>
-                                        <div class="message">Merge pull request #112 from keyrustunisie/fix-retuen-only-label-for-inputfield
+                                        <div class="sha">#be747e7</div>
+                                        <div class="message">Merge pull request #114 from keyrustunisie/widgetProperties
 
-manually add header</div>
+add widget all to krakend</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ca61f13</div>
-                                        <div class="message">manually add header</div>
+                                        <div class="sha">#8046404</div>
+                                        <div class="message">widget</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ manually add header</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#112 manually add header</span>
+                                        <span class="issue">#114 add widget all to krakend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++7 --1</span></div>
+                                    <div>1 file changed <span class="code">++53 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ manually add header</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#112 manually add header</span>
+                                        <span class="issue">#114 add widget all to krakend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++7 --1</span></div>
+                                    <div>1 file changed <span class="code">++53 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -680,10 +680,10 @@ manually add header</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix-retuen-only-label-for-inputfield</span></div>
+                                    <div>on branch <span class="code">widgetProperties</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca61f13</div>
-                                        <div class="message">manually add header</div>
+                                        <div class="sha">#8046404</div>
+                                        <div class="message">widget</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ manually add header</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be0c173</div>
-                                        <div class="message">Merge pull request #111 from keyrustunisie/fix-retuen-only-label-for-inputfield
+                                        <div class="sha">#07ce011</div>
+                                        <div class="message">Merge pull request #113 from keyrustunisie/widgetProperties
 
-add hasnext</div>
+widget properties by widget id</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2e71f09</div>
-                                        <div class="message">add hasnext</div>
+                                        <div class="sha">#2009d51</div>
+                                        <div class="message">widget propeties by widget id</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ add hasnext</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2024, 15:14:17 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 16:16:54 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
