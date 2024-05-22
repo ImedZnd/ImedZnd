@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2107 Commits
+                            2112 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#28a2e7f</div>
-                                        <div class="message">Merge pull request #106 from keyrustunisie/fix-retuen-only-label-for-inputfield
+                                        <div class="sha">#01bfab0</div>
+                                        <div class="message">Merge pull request #109 from keyrustunisie/fix-retuen-only-label-for-inputfield
 
-add output field to krakend</div>
+unique label on add feed , add hasnext to headers</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b98aced</div>
-                                        <div class="message">add output field to krakend</div>
+                                        <div class="sha">#a5adbf0</div>
+                                        <div class="message">check on unique value feed
+add hasnext to krakend</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +643,12 @@ add output field to krakend</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#106 add output field to krakend</span>
+                                        <span class="issue">#109 unique label on add feed , add hasnext to headers</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++261 --0</span></div>
+                                    <div>4 files changed <span class="code">++25 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +660,12 @@ add output field to krakend</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#106 add output field to krakend</span>
+                                        <span class="issue">#109 unique label on add feed , add hasnext to headers</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++261 --0</span></div>
+                                    <div>4 files changed <span class="code">++25 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +683,9 @@ add output field to krakend</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-retuen-only-label-for-inputfield</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b98aced</div>
-                                        <div class="message">add output field to krakend</div>
+                                        <div class="sha">#a5adbf0</div>
+                                        <div class="message">check on unique value feed
+add hasnext to krakend</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +704,14 @@ add output field to krakend</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1d3827</div>
-                                        <div class="message">Merge pull request #105 from keyrustunisie/fix-retuen-only-label-for-inputfield
+                                        <div class="sha">#b5e46c6</div>
+                                        <div class="message">Merge pull request #107 from keyrustunisie/fix-retuen-only-label-for-inputfield
 
-fix query builder on input field</div>
+template feeds</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#57289ce</div>
-                                        <div class="message">return full level one label for output field</div>
+                                        <div class="sha">#46c9592</div>
+                                        <div class="message">add template feeds list propagate hasnext header</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +721,7 @@ fix query builder on input field</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2024, 11:16:19 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 12:14:07 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
