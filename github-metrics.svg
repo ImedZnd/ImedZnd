@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1357" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1307" class="">
     <defs>
         <style/>
     </defs>
@@ -615,6 +615,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">widgetProperties</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#88ef7bf</div>
+                                        <div class="message">fix feed update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
@@ -622,14 +642,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14f71af</div>
-                                        <div class="message">Merge pull request #117 from keyrustunisie/widgetProperties
+                                        <div class="sha">#a286802</div>
+                                        <div class="message">Merge pull request #119 from keyrustunisie/widgetProperties
 
-fix krakend</div>
+fix feed update</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#774de98</div>
-                                        <div class="message">fix template feeds</div>
+                                        <div class="sha">#99d4554</div>
+                                        <div class="message">fix feed update</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +662,12 @@ fix krakend</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#117 fix krakend</span>
+                                        <span class="issue">#119 fix feed update</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++0 --52</span></div>
+                                    <div>1 file changed <span class="code">++2 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +679,12 @@ fix krakend</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#117 fix krakend</span>
+                                        <span class="issue">#119 fix feed update</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++0 --52</span></div>
+                                    <div>1 file changed <span class="code">++2 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,42 +702,8 @@ fix krakend</div>
                                 <div class="details">
                                     <div>on branch <span class="code">widgetProperties</span></div>
                                     <div class="commit">
-                                        <div class="sha">#774de98</div>
-                                        <div class="message">fix template feeds</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2385912</div>
-                                        <div class="message">Merge pull request #116 from keyrustunisie/widgetProperties
-
-fix template feeds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e36cd6</div>
-                                        <div class="message">fix template feeds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0932102</div>
-                                        <div class="message">fix template feeds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3e0ee3</div>
-                                        <div class="message">widget All</div>
+                                        <div class="sha">#99d4554</div>
+                                        <div class="message">fix feed update</div>
                                     </div>
                                 </div>
                             </section>
@@ -727,7 +713,7 @@ fix template feeds</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2024, 18:15:46 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 19:19:41 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
