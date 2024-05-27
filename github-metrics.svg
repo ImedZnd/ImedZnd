@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2185 Commits
+                            2190 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d17ba5</div>
-                                        <div class="message">Merge pull request #125 from keyrustunisie/widgetProperties
+                                        <div class="sha">#2d1fea1</div>
+                                        <div class="message">Merge pull request #126 from keyrustunisie/widgetProperties
 
-fix tempate , tempate widget , widget properties</div>
+fix</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0a8edc7</div>
-                                        <div class="message">fix tempate , template widget</div>
+                                        <div class="sha">#3ac3dc1</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ fix tempate , tempate widget , widget properties</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#125 fix tempate , tempate widget , widget properties</span>
+                                        <span class="issue">#126 fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>12 files changed <span class="code">++343 --103</span></div>
+                                    <div>1 file changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ fix tempate , tempate widget , widget properties</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#125 fix tempate , tempate widget , widget properties</span>
+                                        <span class="issue">#126 fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>12 files changed <span class="code">++343 --103</span></div>
+                                    <div>1 file changed <span class="code">++5 --5</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ fix tempate , tempate widget , widget properties</div>
                                 <div class="details">
                                     <div>on branch <span class="code">widgetProperties</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0a8edc7</div>
-                                        <div class="message">fix tempate , template widget</div>
+                                        <div class="sha">#3ac3dc1</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ fix tempate , tempate widget , widget properties</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b0af5a</div>
-                                        <div class="message">Merge pull request #124 from keyrustunisie/widgetProperties
+                                        <div class="sha">#3d17ba5</div>
+                                        <div class="message">Merge pull request #125 from keyrustunisie/widgetProperties
 
-fix</div>
+fix tempate , tempate widget , widget properties</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6597ba4</div>
-                                        <div class="message">fix feed</div>
+                                        <div class="sha">#0a8edc7</div>
+                                        <div class="message">fix tempate , template widget</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ fix</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2024, 16:17:05 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2024, 17:18:40 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
