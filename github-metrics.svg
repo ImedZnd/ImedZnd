@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#45e8643</div>
-                                        <div class="message">Merge pull request #137 from keyrustunisie/fix-fileds-with-childes
+                                        <div class="sha">#f9ec8b6</div>
+                                        <div class="message">Merge pull request #139 from keyrustunisie/fix-fileds-with-childes
 
-fix is mandatory annotation</div>
+fix ismandatory</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d154081</div>
-                                        <div class="message">fix widget properties , return template widgets properties and properties value</div>
+                                        <div class="sha">#91735c2</div>
+                                        <div class="message">fix add is group</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ fix is mandatory annotation</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#137 fix is mandatory annotation</span>
+                                        <span class="issue">#139 fix ismandatory</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --3</span></div>
+                                    <div>1 file changed <span class="code">++14 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ fix is mandatory annotation</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#137 fix is mandatory annotation</span>
+                                        <span class="issue">#139 fix ismandatory</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --3</span></div>
+                                    <div>1 file changed <span class="code">++14 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ fix is mandatory annotation</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-fileds-with-childes</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d154081</div>
-                                        <div class="message">fix widget properties , return template widgets properties and properties value</div>
+                                        <div class="sha">#91735c2</div>
+                                        <div class="message">fix add is group</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ fix is mandatory annotation</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1d2e56</div>
-                                        <div class="message">Merge pull request #136 from keyrustunisie/fix-fileds-with-childes
+                                        <div class="sha">#477526a</div>
+                                        <div class="message">Merge pull request #138 from keyrustunisie/fix-fileds-with-childes
 
-fix widget properties , add template wigests properties</div>
+fix is group</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#06f6bbd</div>
-                                        <div class="message">fix widget properties , return template widgets properties and properties value</div>
+                                        <div class="sha">#a1b8d27</div>
+                                        <div class="message">fix add is group</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ fix widget properties , add template wigests properties</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2024, 15:15:31 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2024, 16:16:54 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
