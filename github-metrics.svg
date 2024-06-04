@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb7194f</div>
-                                        <div class="message">Merge pull request #147 from keyrustunisie/fix-remove-list-properties-from-list
+                                        <div class="sha">#642f771</div>
+                                        <div class="message">Merge pull request #149 from keyrustunisie/fix-remove-list-properties-from-list
 
-fix structure</div>
+fix</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#45890ac</div>
+                                        <div class="sha">#542bb31</div>
                                         <div class="message">fix annotation for boolean variables</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ fix structure</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#147 fix structure</span>
+                                        <span class="issue">#149 fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++18 --64</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ fix structure</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#147 fix structure</span>
+                                        <span class="issue">#149 fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++18 --64</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ fix structure</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-remove-list-properties-from-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#45890ac</div>
+                                        <div class="sha">#542bb31</div>
                                         <div class="message">fix annotation for boolean variables</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ fix structure</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#13f864e</div>
-                                        <div class="message">Merge pull request #146 from keyrustunisie/fix-remove-list-properties-from-list
+                                        <div class="sha">#4ff4470</div>
+                                        <div class="message">Merge pull request #148 from keyrustunisie/fix-remove-list-properties-from-list
 
 fix naming</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#297ae29</div>
+                                        <div class="sha">#561a746</div>
                                         <div class="message">fix annotation for boolean variables</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ fix naming</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2024, 11:17:59 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 12:14:19 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
