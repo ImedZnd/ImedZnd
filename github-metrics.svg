@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#351ed86</div>
-                                        <div class="message">Merge pull request #166 from keyrustunisie/fix-remove-list-properties-from-list
+                                        <div class="sha">#bf9658d</div>
+                                        <div class="message">Merge pull request #168 from keyrustunisie/fix-remove-list-properties-from-list
 
-patch is shown</div>
+fix isShown</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8d7e2eb</div>
+                                        <div class="sha">#f0b0e08</div>
                                         <div class="message">patch widget</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ patch is shown</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#166 patch is shown</span>
+                                        <span class="issue">#168 fix isShown</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++9 --2</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ patch is shown</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#166 patch is shown</span>
+                                        <span class="issue">#168 fix isShown</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++9 --2</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ patch is shown</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-remove-list-properties-from-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d7e2eb</div>
+                                        <div class="sha">#f0b0e08</div>
                                         <div class="message">patch widget</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ patch is shown</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7bd9309</div>
-                                        <div class="message">Merge pull request #165 from keyrustunisie/fix-remove-list-properties-from-list
+                                        <div class="sha">#ec4423d</div>
+                                        <div class="message">Merge pull request #167 from keyrustunisie/fix-remove-list-properties-from-list
 
-fix</div>
+patch is shown</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bf549c5</div>
+                                        <div class="sha">#1864fb6</div>
                                         <div class="message">patch widget</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ fix</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jun 2024, 18:15:38 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jun 2024, 19:20:05 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
