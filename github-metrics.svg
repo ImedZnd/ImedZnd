@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2408 Commits
+                            2410 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#82c0588</div>
-                                        <div class="message">Merge pull request #174 from keyrustunisie/fix-remove-list-properties-from-list
+                                        <div class="sha">#db12b90</div>
+                                        <div class="message">Merge pull request #175 from keyrustunisie/fix-remove-list-properties-from-list
 
-category api</div>
+add nature api</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2eb8223</div>
-                                        <div class="message">add category api</div>
+                                        <div class="sha">#ce41006</div>
+                                        <div class="message">add nature api</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ category api</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#174 category api</span>
+                                        <span class="issue">#175 add nature api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>6 files changed <span class="code">++113 --32</span></div>
+                                    <div>4 files changed <span class="code">++110 --9</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ category api</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#174 category api</span>
+                                        <span class="issue">#175 add nature api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>6 files changed <span class="code">++113 --32</span></div>
+                                    <div>4 files changed <span class="code">++110 --9</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ category api</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-remove-list-properties-from-list</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2eb8223</div>
-                                        <div class="message">add category api</div>
+                                        <div class="sha">#ce41006</div>
+                                        <div class="message">add nature api</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ category api</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a1a0175</div>
-                                        <div class="message">Merge pull request #173 from keyrustunisie/fix-remove-list-properties-from-list
+                                        <div class="sha">#82c0588</div>
+                                        <div class="message">Merge pull request #174 from keyrustunisie/fix-remove-list-properties-from-list
 
-fix get all mapping</div>
+category api</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bde98a8</div>
-                                        <div class="message">change layout from front</div>
+                                        <div class="sha">#2eb8223</div>
+                                        <div class="message">add category api</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ fix get all mapping</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2024, 12:14:03 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jun 2024, 13:30:19 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
