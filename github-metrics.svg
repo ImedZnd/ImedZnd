@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2e7af5</div>
-                                        <div class="message">Merge pull request #187 from keyrustunisie/output-fields
+                                        <div class="sha">#8401eb4</div>
+                                        <div class="message">Merge pull request #188 from keyrustunisie/output-fields
 
 add feed ids to response foreach widget</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0e4eb2b</div>
+                                        <div class="sha">#6826bc3</div>
                                         <div class="message">add feed ids to response foreach widget</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add feed ids to response foreach widget</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#187 add feed ids to response foreach widget</span>
+                                        <span class="issue">#188 add feed ids to response foreach widget</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++9 --10</span></div>
+                                    <div>5 files changed <span class="code">++60 --122</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add feed ids to response foreach widget</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#187 add feed ids to response foreach widget</span>
+                                        <span class="issue">#188 add feed ids to response foreach widget</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++9 --10</span></div>
+                                    <div>5 files changed <span class="code">++60 --122</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add feed ids to response foreach widget</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e4eb2b</div>
+                                        <div class="sha">#6826bc3</div>
                                         <div class="message">add feed ids to response foreach widget</div>
                                     </div>
                                 </div>
@@ -702,14 +702,14 @@ add feed ids to response foreach widget</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c16c4af</div>
-                                        <div class="message">Merge pull request #186 from keyrustunisie/output-fields
+                                        <div class="sha">#e2e7af5</div>
+                                        <div class="message">Merge pull request #187 from keyrustunisie/output-fields
 
-fix output fields</div>
+add feed ids to response foreach widget</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f57772b</div>
-                                        <div class="message">fix output fields</div>
+                                        <div class="sha">#0e4eb2b</div>
+                                        <div class="message">add feed ids to response foreach widget</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ fix output fields</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2024, 17:20:09 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jun 2024, 18:14:09 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
