@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2538 Commits
+                            2548 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3a23cac</div>
-                                        <div class="message">Merge pull request #211 from keyrustunisie/output-fields
+                                        <div class="sha">#44d121c</div>
+                                        <div class="message">Merge pull request #213 from keyrustunisie/output-fields
 
-add and delete body param</div>
+add child</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b3c1d7b</div>
-                                        <div class="message">add and delete body param</div>
+                                        <div class="sha">#ba089f2</div>
+                                        <div class="message">add child</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ add and delete body param</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#211 add and delete body param</span>
+                                        <span class="issue">#213 add child</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++200 --4</span></div>
+                                    <div>1 file changed <span class="code">++192 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add and delete body param</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#211 add and delete body param</span>
+                                        <span class="issue">#213 add child</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++200 --4</span></div>
+                                    <div>1 file changed <span class="code">++192 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ add and delete body param</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b3c1d7b</div>
-                                        <div class="message">add and delete body param</div>
+                                        <div class="sha">#ba089f2</div>
+                                        <div class="message">add child</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ add and delete body param</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f282697</div>
-                                        <div class="message">Merge pull request #210 from keyrustunisie/output-fields
+                                        <div class="sha">#f8f0d73</div>
+                                        <div class="message">Merge pull request #212 from keyrustunisie/output-fields
 
-add return ref parent and ref group</div>
+add child</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3d7145e</div>
-                                        <div class="message">add return ref parent and ref group</div>
+                                        <div class="sha">#8b124b6</div>
+                                        <div class="message">add child</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ add return ref parent and ref group</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2024, 15:16:24 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 16:16:31 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
