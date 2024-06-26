@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e35fc2c</div>
-                                        <div class="message">Merge pull request #214 from keyrustunisie/output-fields
+                                        <div class="sha">#8f07447</div>
+                                        <div class="message">Merge pull request #218 from keyrustunisie/output-fields
 
-update</div>
+add child</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#110211c</div>
-                                        <div class="message">update</div>
+                                        <div class="sha">#5547f58</div>
+                                        <div class="message">add child</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ update</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#214 update</span>
+                                        <span class="issue">#218 add child</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>4 files changed <span class="code">++51 --10</span></div>
+                                    <div>1 file changed <span class="code">++0 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ update</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#214 update</span>
+                                        <span class="issue">#218 add child</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>4 files changed <span class="code">++51 --10</span></div>
+                                    <div>1 file changed <span class="code">++0 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ update</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#110211c</div>
-                                        <div class="message">update</div>
+                                        <div class="sha">#5547f58</div>
+                                        <div class="message">add child</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,13 +702,13 @@ update</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44d121c</div>
-                                        <div class="message">Merge pull request #213 from keyrustunisie/output-fields
+                                        <div class="sha">#f313edd</div>
+                                        <div class="message">Merge pull request #217 from keyrustunisie/output-fields
 
 add child</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ba089f2</div>
+                                        <div class="sha">#7ccdfe9</div>
                                         <div class="message">add child</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ add child</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2024, 15:14:29 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 16:17:48 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
