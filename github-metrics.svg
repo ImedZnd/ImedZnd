@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#51977bf</div>
-                                        <div class="message">Merge pull request #236 from keyrustunisie/output-fields
+                                        <div class="sha">#a8ce34f</div>
+                                        <div class="message">Merge pull request #237 from keyrustunisie/output-fields
 
 cant add fields if we have a list at root</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dc78968</div>
+                                        <div class="sha">#faf06da</div>
                                         <div class="message">cant add fields if we have a list at root</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ cant add fields if we have a list at root</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#236 cant add fields if we have a list at root</span>
+                                        <span class="issue">#237 cant add fields if we have a list at root</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++4 --0</span></div>
+                                    <div>2 files changed <span class="code">++16 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ cant add fields if we have a list at root</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#236 cant add fields if we have a list at root</span>
+                                        <span class="issue">#237 cant add fields if we have a list at root</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++4 --0</span></div>
+                                    <div>2 files changed <span class="code">++16 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ cant add fields if we have a list at root</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc78968</div>
+                                        <div class="sha">#faf06da</div>
                                         <div class="message">cant add fields if we have a list at root</div>
                                     </div>
                                 </div>
@@ -702,14 +702,14 @@ cant add fields if we have a list at root</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f6e8880</div>
-                                        <div class="message">Merge pull request #235 from keyrustunisie/output-fields
+                                        <div class="sha">#51977bf</div>
+                                        <div class="message">Merge pull request #236 from keyrustunisie/output-fields
 
-full tree</div>
+cant add fields if we have a list at root</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#853c116</div>
-                                        <div class="message">full tree</div>
+                                        <div class="sha">#dc78968</div>
+                                        <div class="message">cant add fields if we have a list at root</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ full tree</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2024, 21:16:13 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2024, 22:14:42 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
