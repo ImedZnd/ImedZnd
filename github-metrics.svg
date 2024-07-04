@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d5d524</div>
-                                        <div class="message">Merge pull request #244 from keyrustunisie/output-fields
+                                        <div class="sha">#2b19702</div>
+                                        <div class="message">Merge pull request #247 from keyrustunisie/output-fields
 
-remove useless code</div>
+fix api</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#23ddb96</div>
-                                        <div class="message">remove useless code</div>
+                                        <div class="sha">#5c73c49</div>
+                                        <div class="message">fix api</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ remove useless code</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#244 remove useless code</span>
+                                        <span class="issue">#247 fix api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --2</span></div>
+                                    <div>2 files changed <span class="code">++44 --159</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ remove useless code</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#244 remove useless code</span>
+                                        <span class="issue">#247 fix api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --2</span></div>
+                                    <div>2 files changed <span class="code">++44 --159</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ remove useless code</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#23ddb96</div>
-                                        <div class="message">remove useless code</div>
+                                        <div class="sha">#5c73c49</div>
+                                        <div class="message">fix api</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,13 +702,13 @@ remove useless code</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9db2d3a</div>
-                                        <div class="message">Merge pull request #243 from keyrustunisie/output-fields
+                                        <div class="sha">#1cdcb52</div>
+                                        <div class="message">Merge pull request #246 from keyrustunisie/output-fields
 
 remove useless code</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6d1a2f5</div>
+                                        <div class="sha">#be05598</div>
                                         <div class="message">remove useless code</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ remove useless code</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 22:14:25 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 23:15:15 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
