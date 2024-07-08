@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4d18982</div>
-                                        <div class="message">Merge pull request #263 from keyrustunisie/output-fields
+                                        <div class="sha">#5a25585</div>
+                                        <div class="message">Merge pull request #264 from keyrustunisie/output-fields
 
-fix api tree</div>
+fix mapping</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#07174d5</div>
-                                        <div class="message">fix api tree</div>
+                                        <div class="sha">#3a6b55e</div>
+                                        <div class="message">fix mapping</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ fix api tree</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#263 fix api tree</span>
+                                        <span class="issue">#264 fix mapping</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++23 --0</span></div>
+                                    <div>1 file changed <span class="code">++16 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ fix api tree</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#263 fix api tree</span>
+                                        <span class="issue">#264 fix mapping</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++23 --0</span></div>
+                                    <div>1 file changed <span class="code">++16 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ fix api tree</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#07174d5</div>
-                                        <div class="message">fix api tree</div>
+                                        <div class="sha">#3a6b55e</div>
+                                        <div class="message">fix mapping</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,13 +702,13 @@ fix api tree</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5ff9d14</div>
-                                        <div class="message">Merge pull request #262 from keyrustunisie/output-fields
+                                        <div class="sha">#4d18982</div>
+                                        <div class="message">Merge pull request #263 from keyrustunisie/output-fields
 
 fix api tree</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c83017c</div>
+                                        <div class="sha">#07174d5</div>
                                         <div class="message">fix api tree</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ fix api tree</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2024, 19:21:04 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2024, 20:12:15 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
