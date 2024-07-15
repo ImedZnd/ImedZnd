@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#44b4f9e</div>
-                                        <div class="message">Merge pull request #292 from keyrustunisie/output-fields
+                                        <div class="sha">#9370063</div>
+                                        <div class="message">Merge pull request #295 from keyrustunisie/output-fields
 
-add delete child property</div>
+fix update layout</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b201780</div>
-                                        <div class="message">add delete child property</div>
+                                        <div class="sha">#fabc099</div>
+                                        <div class="message">fix update layout</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ add delete child property</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#292 add delete child property</span>
+                                        <span class="issue">#295 fix update layout</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++104 --0</span></div>
+                                    <div>1 file changed <span class="code">++26 --24</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add delete child property</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#292 add delete child property</span>
+                                        <span class="issue">#295 fix update layout</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++104 --0</span></div>
+                                    <div>1 file changed <span class="code">++26 --24</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ add delete child property</div>
                                 <div class="details">
                                     <div>on branch <span class="code">output-fields</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b201780</div>
-                                        <div class="message">add delete child property</div>
+                                        <div class="sha">#fabc099</div>
+                                        <div class="message">fix update layout</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ add delete child property</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fdbb2e3</div>
-                                        <div class="message">Merge pull request #291 from keyrustunisie/output-fields
+                                        <div class="sha">#f25a1a0</div>
+                                        <div class="message">Merge pull request #294 from keyrustunisie/output-fields
 
-add type property and widget property</div>
+add delete child property</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3e43461</div>
-                                        <div class="message">add type property and widget property</div>
+                                        <div class="sha">#83e8b2c</div>
+                                        <div class="message">add delete child property</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ add type property and widget property</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2024, 20:14:47 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2024, 21:16:33 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
