@@ -615,21 +615,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f02d2b</div>
-                                        <div class="message">Merge pull request #315 from keyrustunisie/properties
+                                        <div class="sha">#55798a0</div>
+                                        <div class="message">Merge pull request #318 from keyrustunisie/properties
 
-fix delete on api reverse</div>
+Properties</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1244115</div>
-                                        <div class="message">fix delete on api reverse</div>
+                                        <div class="sha">#114e1cd</div>
+                                        <div class="message">add allowed value</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#06ce245</div>
+                                        <div class="message">add allowed value</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +646,12 @@ fix delete on api reverse</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#315 fix delete on api reverse</span>
+                                        <span class="issue">#318 Properties</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>1 file changed <span class="code">++5 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +663,12 @@ fix delete on api reverse</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#315 fix delete on api reverse</span>
+                                        <span class="issue">#318 Properties</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>1 file changed <span class="code">++5 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +686,8 @@ fix delete on api reverse</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1244115</div>
-                                        <div class="message">fix delete on api reverse</div>
+                                        <div class="sha">#114e1cd</div>
+                                        <div class="message">add allowed value</div>
                                     </div>
                                 </div>
                             </section>
@@ -695,21 +699,15 @@ fix delete on api reverse</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">properties</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2228eff</div>
-                                        <div class="message">Merge pull request #314 from keyrustunisie/properties
-
-fix delete on api reverse</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebe0780</div>
-                                        <div class="message">fix delete on api reverse</div>
+                                        <div class="sha">#06ce245</div>
+                                        <div class="message">add allowed value</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +717,7 @@ fix delete on api reverse</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2024, 15:15:32 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2024, 16:18:28 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
