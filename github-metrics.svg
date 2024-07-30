@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1507" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1374" class="">
     <defs>
         <style/>
     </defs>
@@ -426,7 +426,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        118
+                                        119
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -609,106 +609,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">properties-group</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67748be</div>
-                                        <div class="message">full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87976cc</div>
-                                        <div class="message">Merge pull request #330 from keyrustunisie/refactor/improve-widget-filter-logic
-
-Update TemplateWidget Entity</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92ce0c4</div>
-                                        <div class="message">Merge pull request #341 from keyrustunisie/properties-group
-
-full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d62ee50</div>
-                                        <div class="message">Merge pull request #340 from keyrustunisie/properties-group
-
-full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#928f1fd</div>
-                                        <div class="message">Merge pull request #339 from keyrustunisie/properties-group
-
-full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63fcae0</div>
-                                        <div class="message">Merge pull request #338 from keyrustunisie/properties-group
-
-full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90631e1</div>
-                                        <div class="message">Merge pull request #337 from keyrustunisie/properties-group
-
-full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#895f239</div>
-                                        <div class="message">Merge pull request #336 from keyrustunisie/update-strategy-template-widget-values-adding
-
-Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#356fc8f</div>
-                                        <div class="message">Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89ebfcc</div>
-                                        <div class="message">Merge pull request #335 from keyrustunisie/properties-group
-
-full feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#544ef43</div>
-                                        <div class="message">Merge pull request #334 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f377d8</div>
-                                        <div class="message">Update TemplateWidget.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0145609</div>
-                                        <div class="message">Update TemplateWidget.java</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 6 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92ce0c4</div>
-                                        <div class="message">Merge pull request #341 from keyrustunisie/properties-group
+                                        <div class="sha">#a5efbe8</div>
+                                        <div class="message">Merge pull request #346 from keyrustunisie/properties-group
 
-full feed</div>
+Properties group</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#77a7122</div>
+                                        <div class="sha">#4583e73</div>
+                                        <div class="message">full feed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce954fd</div>
+                                        <div class="message">full feed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#851900d</div>
+                                        <div class="message">full feed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8865feb</div>
+                                        <div class="message">Merge branch 'refs/heads/dev' into properties-group
+
+# Conflicts:
+#	bff-dynamique-v2/src/main/java/com/keyrus/of/domain/entities/TemplateWidget.java</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67748be</div>
                                         <div class="message">full feed</div>
                                     </div>
                                 </div>
@@ -722,12 +655,12 @@ full feed</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#341 full feed</span>
+                                        <span class="issue">#346 Properties group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>5 files changed <span class="code">++252 --14</span></div>
                                 </div>
                             </section>
                         </div>
@@ -739,12 +672,12 @@ full feed</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#341 full feed</span>
+                                        <span class="issue">#346 Properties group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>5 files changed <span class="code">++252 --14</span></div>
                                 </div>
                             </section>
                         </div>
@@ -762,7 +695,27 @@ full feed</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#77a7122</div>
+                                        <div class="sha">#4583e73</div>
+                                        <div class="message">full feed</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">properties-group</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ce954fd</div>
                                         <div class="message">full feed</div>
                                     </div>
                                 </div>
@@ -773,7 +726,7 @@ full feed</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2024, 18:14:21 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2024, 19:21:20 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
