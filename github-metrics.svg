@@ -616,14 +616,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61f8d10</div>
-                                        <div class="message">Merge pull request #385 from keyrustunisie/properties-group
+                                        <div class="sha">#60bc32b</div>
+                                        <div class="message">Merge pull request #387 from keyrustunisie/properties-group
 
-fix api</div>
+fix path</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#472e691</div>
-                                        <div class="message">fix api</div>
+                                        <div class="sha">#fc61b9a</div>
+                                        <div class="message">fix path</div>
                                     </div>
                                 </div>
                             </section>
@@ -636,12 +636,12 @@ fix api</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#385 fix api</span>
+                                        <span class="issue">#387 fix path</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++11 --2</span></div>
+                                    <div>1 file changed <span class="code">++18 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -653,12 +653,12 @@ fix api</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#385 fix api</span>
+                                        <span class="issue">#387 fix path</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++11 --2</span></div>
+                                    <div>1 file changed <span class="code">++18 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -676,8 +676,8 @@ fix api</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#472e691</div>
-                                        <div class="message">fix api</div>
+                                        <div class="sha">#fc61b9a</div>
+                                        <div class="message">fix path</div>
                                     </div>
                                 </div>
                             </section>
@@ -696,14 +696,14 @@ fix api</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0fa5e5d</div>
-                                        <div class="message">Merge pull request #384 from keyrustunisie/properties-group
+                                        <div class="sha">#50fabba</div>
+                                        <div class="message">Merge pull request #386 from keyrustunisie/properties-group
 
-fix api</div>
+fix path</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0d5e6b7</div>
-                                        <div class="message">fix api</div>
+                                        <div class="sha">#736db69</div>
+                                        <div class="message">fix path</div>
                                     </div>
                                 </div>
                             </section>
@@ -713,7 +713,7 @@ fix api</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2024, 12:13:46 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2024, 13:32:24 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
