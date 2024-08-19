@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1624" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1374" class="">
     <defs>
         <style/>
     </defs>
@@ -615,21 +615,61 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">properties-group</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5574dca</div>
+                                        <div class="message">Merge pull request #461 from keyrustunisie/properties-group
+
+Properties group</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bf2647</div>
+                                        <div class="message">Merge pull request #460 from keyrustunisie/change_krakend_file
+
+Template Widget With Properties ADD Rest Api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#16b64c8</div>
+                                        <div class="message">Template Widget With Properties ADD Rest Api</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#269c6fb</div>
-                                        <div class="message">Merge pull request #458 from keyrustunisie/properties-group
+                                        <div class="sha">#5574dca</div>
+                                        <div class="message">Merge pull request #461 from keyrustunisie/properties-group
 
-feed input field</div>
+Properties group</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d64088d</div>
-                                        <div class="message">feed input field</div>
+                                        <div class="sha">#d1555ec</div>
+                                        <div class="message">restart bff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0afc8f7</div>
+                                        <div class="message">restart bff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cefe22</div>
+                                        <div class="message">restart bff</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +682,12 @@ feed input field</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#458 feed input field</span>
+                                        <span class="issue">#461 Properties group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++68 --1</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +699,12 @@ feed input field</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#458 feed input field</span>
+                                        <span class="issue">#461 Properties group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++68 --1</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,124 +722,8 @@ feed input field</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d64088d</div>
-                                        <div class="message">feed input field</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 70 commits in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">properties-group</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b55dfd5</div>
-                                        <div class="message">Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37ae7d7</div>
-                                        <div class="message">Merge pull request #431 from keyrustunisie/chage-in-krakend-file
-
-Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56326ef</div>
-                                        <div class="message">Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a95593e</div>
-                                        <div class="message">Merge pull request #430 from keyrustunisie/refactoring
-
-create cutsom view for templateWidget</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7b9eca</div>
-                                        <div class="message">create cutsom view for templateWidget</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0f1f78</div>
-                                        <div class="message">Merge pull request #429 from keyrustunisie/chage-in-krakend-file
-
-Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c9e2fc</div>
-                                        <div class="message">Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46a287d</div>
-                                        <div class="message">Merge pull request #428 from keyrustunisie/refactoring
-
-refactor getOrganismJson api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#350cbd0</div>
-                                        <div class="message">refactor getOrganismJson api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7dc8ff</div>
-                                        <div class="message">Merge pull request #427 from keyrustunisie/refactoring
-
-update feed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14b8b17</div>
-                                        <div class="message">Update OutputFieldService.java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c82ad7</div>
-                                        <div class="message">Merge pull request #426 from keyrustunisie/refactoring
-
-sync templateWidget</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05972f8</div>
-                                        <div class="message">sync templateWidget</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdf2b72</div>
-                                        <div class="message">Merge pull request #425 from keyrustunisie/chage-in-krakend-file
-
-Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27964eb</div>
-                                        <div class="message">Template Widget With Properties ADD Rest Api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a749d40</div>
-                                        <div class="message">Merge pull request #424 from keyrustunisie/refactoring
-
-add sequences script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4122bf7</div>
-                                        <div class="message">add sequences script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04a3a34</div>
-                                        <div class="message">Merge pull request #423 from keyrustunisie/jasser-dridi-patch-1
-
-Update bffdynamique.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13c1f1d</div>
-                                        <div class="message">Update bffdynamique.json</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e01b856</div>
-                                        <div class="message">Merge pull request #422 from keyrustunisie/properties-group
-
-Properties group</div>
+                                        <div class="sha">#d1555ec</div>
+                                        <div class="message">restart bff</div>
                                     </div>
                                 </div>
                             </section>
@@ -809,7 +733,7 @@ Properties group</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2024, 20:14:19 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2024, 21:16:58 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
