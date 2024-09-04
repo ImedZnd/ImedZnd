@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bc62d48</div>
-                                        <div class="message">Merge pull request #572 from keyrustunisie/properties-group
+                                        <div class="sha">#79d3473</div>
+                                        <div class="message">Merge pull request #573 from keyrustunisie/properties-group
 
-add widget type</div>
+add version</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b906fd8</div>
-                                        <div class="message">add widget type</div>
+                                        <div class="sha">#b37762b</div>
+                                        <div class="message">add version</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ add widget type</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#572 add widget type</span>
+                                        <span class="issue">#573 add version</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>2 files changed <span class="code">++107 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add widget type</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#572 add widget type</span>
+                                        <span class="issue">#573 add version</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>2 files changed <span class="code">++107 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ add widget type</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b906fd8</div>
-                                        <div class="message">add widget type</div>
+                                        <div class="sha">#b37762b</div>
+                                        <div class="message">add version</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,13 +702,13 @@ add widget type</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3eea57a</div>
-                                        <div class="message">Merge pull request #571 from keyrustunisie/properties-group
+                                        <div class="sha">#bc62d48</div>
+                                        <div class="message">Merge pull request #572 from keyrustunisie/properties-group
 
 add widget type</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e983734</div>
+                                        <div class="sha">#b906fd8</div>
                                         <div class="message">add widget type</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ add widget type</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2024, 19:20:31 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2024, 20:13:43 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
