@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3471 Commits
+                            3485 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#79d3473</div>
-                                        <div class="message">Merge pull request #573 from keyrustunisie/properties-group
+                                        <div class="sha">#f7072f2</div>
+                                        <div class="message">Merge pull request #574 from keyrustunisie/properties-group
 
-add version</div>
+update property with group</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b37762b</div>
-                                        <div class="message">add version</div>
+                                        <div class="sha">#0fc8467</div>
+                                        <div class="message">update property with group</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ add version</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#573 add version</span>
+                                        <span class="issue">#574 update property with group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++107 --1</span></div>
+                                    <div>3 files changed <span class="code">++56 --32</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add version</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#573 add version</span>
+                                        <span class="issue">#574 update property with group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++107 --1</span></div>
+                                    <div>3 files changed <span class="code">++56 --32</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ add version</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b37762b</div>
-                                        <div class="message">add version</div>
+                                        <div class="sha">#0fc8467</div>
+                                        <div class="message">update property with group</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ add version</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bc62d48</div>
-                                        <div class="message">Merge pull request #572 from keyrustunisie/properties-group
+                                        <div class="sha">#79d3473</div>
+                                        <div class="message">Merge pull request #573 from keyrustunisie/properties-group
 
-add widget type</div>
+add version</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b906fd8</div>
-                                        <div class="message">add widget type</div>
+                                        <div class="sha">#b37762b</div>
+                                        <div class="message">add version</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ add widget type</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2024, 14:22:28 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2024, 15:15:54 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
