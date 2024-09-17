@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3717 Commits
+                            3722 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#719dcef</div>
-                                        <div class="message">Merge pull request #646 from keyrustunisie/properties-group
+                                        <div class="sha">#3337aa7</div>
+                                        <div class="message">Merge pull request #650 from keyrustunisie/properties-group
 
 execute count logs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#72ead0e</div>
+                                        <div class="sha">#a105e60</div>
                                         <div class="message">execute count logs</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ execute count logs</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#646 execute count logs</span>
+                                        <span class="issue">#650 execute count logs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++7 --0</span></div>
+                                    <div>2 files changed <span class="code">++5 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ execute count logs</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#646 execute count logs</span>
+                                        <span class="issue">#650 execute count logs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++7 --0</span></div>
+                                    <div>2 files changed <span class="code">++5 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ execute count logs</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#72ead0e</div>
+                                        <div class="sha">#a105e60</div>
                                         <div class="message">execute count logs</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ execute count logs</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cf6e1fe</div>
-                                        <div class="message">Merge pull request #641 from keyrustunisie/properties-group
+                                        <div class="sha">#f838a32</div>
+                                        <div class="message">Merge pull request #649 from keyrustunisie/properties-group
 
 execute count logs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dda1d7e</div>
+                                        <div class="sha">#a403ecf</div>
                                         <div class="message">execute count logs</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ execute count logs</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2024, 11:18:28 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2024, 12:14:43 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
