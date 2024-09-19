@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#988b846</div>
-                                        <div class="message">Merge pull request #655 from keyrustunisie/properties-group
+                                        <div class="sha">#7509ab4</div>
+                                        <div class="message">Merge pull request #656 from keyrustunisie/properties-group
 
 add fields</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7d6868b</div>
+                                        <div class="sha">#4432c12</div>
                                         <div class="message">add fields</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add fields</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#655 add fields</span>
+                                        <span class="issue">#656 add fields</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++29 --0</span></div>
+                                    <div>12 files changed <span class="code">++195 --19</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add fields</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#655 add fields</span>
+                                        <span class="issue">#656 add fields</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++29 --0</span></div>
+                                    <div>12 files changed <span class="code">++195 --19</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add fields</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7d6868b</div>
+                                        <div class="sha">#4432c12</div>
                                         <div class="message">add fields</div>
                                     </div>
                                 </div>
@@ -702,14 +702,14 @@ add fields</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6c23f55</div>
-                                        <div class="message">Merge pull request #654 from keyrustunisie/properties-group
+                                        <div class="sha">#988b846</div>
+                                        <div class="message">Merge pull request #655 from keyrustunisie/properties-group
 
-add</div>
+add fields</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e8bc060</div>
-                                        <div class="message">add</div>
+                                        <div class="sha">#7d6868b</div>
+                                        <div class="message">add fields</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ add</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2024, 15:16:07 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2024, 16:18:51 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
