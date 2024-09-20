@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3790 Commits
+                            3807 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ffad2a</div>
-                                        <div class="message">Merge pull request #662 from keyrustunisie/properties-group
+                                        <div class="sha">#696ec03</div>
+                                        <div class="message">Merge pull request #664 from keyrustunisie/properties-group
 
 add fields</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7125dbe</div>
+                                        <div class="sha">#8c9c7bb</div>
                                         <div class="message">add fields</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add fields</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#662 add fields</span>
+                                        <span class="issue">#664 add fields</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>6 files changed <span class="code">++47 --0</span></div>
+                                    <div>4 files changed <span class="code">++86 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add fields</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#662 add fields</span>
+                                        <span class="issue">#664 add fields</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>6 files changed <span class="code">++47 --0</span></div>
+                                    <div>4 files changed <span class="code">++86 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add fields</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7125dbe</div>
+                                        <div class="sha">#8c9c7bb</div>
                                         <div class="message">add fields</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ add fields</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ed48ef3</div>
-                                        <div class="message">Merge pull request #661 from keyrustunisie/properties-group
+                                        <div class="sha">#f6eff66</div>
+                                        <div class="message">Merge pull request #663 from keyrustunisie/properties-group
 
 add fields</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7fe3e34</div>
+                                        <div class="sha">#c41aad0</div>
                                         <div class="message">add fields</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ add fields</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2024, 15:16:58 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2024, 16:18:21 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
