@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1640" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1307" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3836 Commits
+                            3843 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,6 +622,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
+                                        <div class="sha">#4961296</div>
+                                        <div class="message">check output field exist</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1038cfd</div>
+                                        <div class="message">Merge pull request #687 from keyrustunisie/properties-group
+
+check output field exist</div>
+                                    </div>
+                                    <div class="commit">
                                         <div class="sha">#778dfe6</div>
                                         <div class="message">check output field exist</div>
                                     </div>
@@ -636,42 +662,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#686 Properties group</span>
+                                        <span class="issue">#687 check output field exist</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++6 --5</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#70cf6d4</div>
-                                        <div class="message">Merge pull request #686 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6cadced</div>
-                                        <div class="message">Merge branch 'refs/heads/dev' into properties-group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4f5de9</div>
-                                        <div class="message">template not found</div>
-                                    </div>
+                                    <div>2 files changed <span class="code">++27 --19</span></div>
                                 </div>
                             </section>
                         </div>
@@ -683,12 +679,12 @@ Properties group</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#686 Properties group</span>
+                                        <span class="issue">#687 check output field exist</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>2 files changed <span class="code">++6 --5</span></div>
+                                    <div>2 files changed <span class="code">++27 --19</span></div>
                                 </div>
                             </section>
                         </div>
@@ -699,131 +695,15 @@ Properties group</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 51 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a457b83</div>
-                                        <div class="message">Merge pull request #628 from keyrustunisie/properties-group
-
-insert property refer to itself</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6887177</div>
-                                        <div class="message">Merge pull request #627 from keyrustunisie/properties-group
-
-add check on refTenant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7c6c7d</div>
-                                        <div class="message">Merge pull request #626 from keyrustunisie/properties-group
-
-add check on refTenant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc35692</div>
-                                        <div class="message">Merge pull request #625 from keyrustunisie/properties-group
-
-add check on refTenant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48f2bb0</div>
-                                        <div class="message">Merge pull request #624 from keyrustunisie/properties-group
-
-add check on refTenant</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fb9392</div>
-                                        <div class="message">Merge pull request #623 from keyrustunisie/properties-group
-
-check roles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bd8f2c</div>
-                                        <div class="message">Merge pull request #622 from keyrustunisie/properties-group
-
-check roles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f21bd7d</div>
-                                        <div class="message">Merge pull request #621 from keyrustunisie/properties-group
-
-add</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c44108c</div>
-                                        <div class="message">Merge pull request #620 from keyrustunisie/properties-group
-
-add RegisterForReflection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e7ba88</div>
-                                        <div class="message">Merge pull request #619 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6518af1</div>
-                                        <div class="message">Merge pull request #618 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84c8dc4</div>
-                                        <div class="message">Merge pull request #617 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6655ba0</div>
-                                        <div class="message">Merge pull request #616 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cda38f</div>
-                                        <div class="message">Merge pull request #615 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d764e03</div>
-                                        <div class="message">Merge pull request #614 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d41082</div>
-                                        <div class="message">Merge pull request #613 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d0c593</div>
-                                        <div class="message">Merge pull request #612 from keyrustunisie/properties-group
-
-test add tenant to style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b2c16c</div>
-                                        <div class="message">Merge pull request #611 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d933c3</div>
-                                        <div class="message">Merge pull request #610 from keyrustunisie/properties-group
-
-add sort and pagination for template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45fd6d8</div>
-                                        <div class="message">Merge pull request #609 from keyrustunisie/properties-group
-
-add sort and pagination for template</div>
+                                        <div class="sha">#778dfe6</div>
+                                        <div class="message">check output field exist</div>
                                     </div>
                                 </div>
                             </section>
@@ -833,7 +713,7 @@ add sort and pagination for template</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 12:14:30 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 13:34:57 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
