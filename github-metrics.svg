@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1307" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3865 Commits
+                            3869 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -615,40 +615,24 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">properties-group</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3fbb2b6</div>
-                                        <div class="message">check output field exist</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ccaf625</div>
-                                        <div class="message">Merge pull request #691 from keyrustunisie/properties-group
+                                        <div class="sha">#f54453b</div>
+                                        <div class="message">Merge pull request #692 from keyrustunisie/properties-group
 
-check output field exist</div>
+Properties group</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e167c09</div>
+                                        <div class="sha">#0e6db03</div>
+                                        <div class="message">check output field exist</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fbb2b6</div>
                                         <div class="message">check output field exist</div>
                                     </div>
                                 </div>
@@ -662,12 +646,12 @@ check output field exist</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#691 check output field exist</span>
+                                        <span class="issue">#692 Properties group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++4 --0</span></div>
+                                    <div>1 file changed <span class="code">++3 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -679,12 +663,12 @@ check output field exist</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#691 check output field exist</span>
+                                        <span class="issue">#692 Properties group</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++4 --0</span></div>
+                                    <div>1 file changed <span class="code">++3 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -702,7 +686,27 @@ check output field exist</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e167c09</div>
+                                        <div class="sha">#0e6db03</div>
+                                        <div class="message">check output field exist</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">properties-group</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3fbb2b6</div>
                                         <div class="message">check output field exist</div>
                                     </div>
                                 </div>
@@ -713,7 +717,7 @@ check output field exist</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 17:21:33 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 18:15:37 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
