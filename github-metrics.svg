@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f65aeb</div>
-                                        <div class="message">Merge pull request #704 from keyrustunisie/properties-group
+                                        <div class="sha">#d66a11f</div>
+                                        <div class="message">Merge pull request #705 from keyrustunisie/properties-group
 
 remove logs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#714c7ef</div>
+                                        <div class="sha">#4b18d9e</div>
                                         <div class="message">remove logs</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ remove logs</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#704 remove logs</span>
+                                        <span class="issue">#705 remove logs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>2 files changed <span class="code">++28 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ remove logs</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#704 remove logs</span>
+                                        <span class="issue">#705 remove logs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>2 files changed <span class="code">++28 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ remove logs</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#714c7ef</div>
+                                        <div class="sha">#4b18d9e</div>
                                         <div class="message">remove logs</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ remove logs</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2dc3cb</div>
-                                        <div class="message">Merge pull request #703 from keyrustunisie/properties-group
+                                        <div class="sha">#1f65aeb</div>
+                                        <div class="message">Merge pull request #704 from keyrustunisie/properties-group
 
 remove logs</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1f92fd6</div>
+                                        <div class="sha">#714c7ef</div>
                                         <div class="message">remove logs</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ remove logs</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 13:35:19 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2024, 14:25:59 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
