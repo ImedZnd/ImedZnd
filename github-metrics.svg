@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5f7c0a</div>
-                                        <div class="message">Merge pull request #711 from keyrustunisie/properties-group
+                                        <div class="sha">#a8b35b3</div>
+                                        <div class="message">Merge pull request #714 from keyrustunisie/properties-group
 
 return an empty list of feeds</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#30f1769</div>
+                                        <div class="sha">#d33d98e</div>
                                         <div class="message">return an empty list of feeds</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ return an empty list of feeds</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#711 return an empty list of feeds</span>
+                                        <span class="issue">#714 return an empty list of feeds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                    <div>2 files changed <span class="code">++7 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ return an empty list of feeds</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#711 return an empty list of feeds</span>
+                                        <span class="issue">#714 return an empty list of feeds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --0</span></div>
+                                    <div>2 files changed <span class="code">++7 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ return an empty list of feeds</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#30f1769</div>
+                                        <div class="sha">#d33d98e</div>
                                         <div class="message">return an empty list of feeds</div>
                                     </div>
                                 </div>
@@ -702,14 +702,14 @@ return an empty list of feeds</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d06bb8</div>
-                                        <div class="message">Merge pull request #710 from keyrustunisie/properties-group
+                                        <div class="sha">#d5f7c0a</div>
+                                        <div class="message">Merge pull request #711 from keyrustunisie/properties-group
 
-remove update group</div>
+return an empty list of feeds</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#183b362</div>
-                                        <div class="message">remove update group</div>
+                                        <div class="sha">#30f1769</div>
+                                        <div class="message">return an empty list of feeds</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ remove update group</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2024, 22:16:08 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 23:16:39 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
