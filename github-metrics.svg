@@ -615,25 +615,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#43f05c6</div>
-                                        <div class="message">Merge pull request #709 from keyrustunisie/properties-group
+                                        <div class="sha">#d5f7c0a</div>
+                                        <div class="message">Merge pull request #711 from keyrustunisie/properties-group
 
-Properties group</div>
+return an empty list of feeds</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d393d68</div>
-                                        <div class="message">remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1657504</div>
-                                        <div class="message">remove logs</div>
+                                        <div class="sha">#30f1769</div>
+                                        <div class="message">return an empty list of feeds</div>
                                     </div>
                                 </div>
                             </section>
@@ -646,12 +642,12 @@ Properties group</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#709 Properties group</span>
+                                        <span class="issue">#711 return an empty list of feeds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++12 --12</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -663,12 +659,12 @@ Properties group</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#709 Properties group</span>
+                                        <span class="issue">#711 return an empty list of feeds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++12 --12</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -686,8 +682,8 @@ Properties group</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d393d68</div>
-                                        <div class="message">remove logs</div>
+                                        <div class="sha">#30f1769</div>
+                                        <div class="message">return an empty list of feeds</div>
                                     </div>
                                 </div>
                             </section>
@@ -699,15 +695,21 @@ Properties group</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">properties-group</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1657504</div>
-                                        <div class="message">remove logs</div>
+                                        <div class="sha">#6d06bb8</div>
+                                        <div class="message">Merge pull request #710 from keyrustunisie/properties-group
+
+remove update group</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#183b362</div>
+                                        <div class="message">remove update group</div>
                                     </div>
                                 </div>
                             </section>
@@ -717,7 +719,7 @@ Properties group</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2024, 17:22:15 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 18:17:49 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
