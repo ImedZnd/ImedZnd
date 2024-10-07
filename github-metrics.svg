@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ba1e8c6</div>
-                                        <div class="message">Merge pull request #750 from keyrustunisie/properties-group
+                                        <div class="sha">#61593d5</div>
+                                        <div class="message">Merge pull request #751 from keyrustunisie/properties-group
 
 fix input feed</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7f31409</div>
+                                        <div class="sha">#fc968ab</div>
                                         <div class="message">fix input feed</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ fix input feed</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#750 fix input feed</span>
+                                        <span class="issue">#751 fix input feed</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++8 --8</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ fix input feed</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#750 fix input feed</span>
+                                        <span class="issue">#751 fix input feed</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++8 --8</span></div>
+                                    <div>1 file changed <span class="code">++1 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ fix input feed</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7f31409</div>
+                                        <div class="sha">#fc968ab</div>
                                         <div class="message">fix input feed</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ fix input feed</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5746992</div>
-                                        <div class="message">Merge pull request #749 from keyrustunisie/properties-group
+                                        <div class="sha">#ba1e8c6</div>
+                                        <div class="message">Merge pull request #750 from keyrustunisie/properties-group
 
 fix input feed</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#65a4065</div>
+                                        <div class="sha">#7f31409</div>
                                         <div class="message">fix input feed</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ fix input feed</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 19:23:31 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 20:14:08 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
