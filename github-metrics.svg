@@ -419,7 +419,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        7.39k
+                                        7.40k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,14 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#554cea7</div>
-                                        <div class="message">Merge pull request #753 from keyrustunisie/properties-group
+                                        <div class="sha">#4e04e69</div>
+                                        <div class="message">Merge pull request #755 from keyrustunisie/properties-group
 
-fix input feed</div>
+add cache</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#98e3dfe</div>
-                                        <div class="message">fix input feed</div>
+                                        <div class="sha">#5b1d18d</div>
+                                        <div class="message">add cache</div>
                                     </div>
                                 </div>
                             </section>
@@ -642,12 +642,12 @@ fix input feed</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#753 fix input feed</span>
+                                        <span class="issue">#755 add cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --15</span></div>
+                                    <div>1 file changed <span class="code">++2 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ fix input feed</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#753 fix input feed</span>
+                                        <span class="issue">#755 add cache</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++2 --15</span></div>
+                                    <div>1 file changed <span class="code">++2 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,8 +682,8 @@ fix input feed</div>
                                 <div class="details">
                                     <div>on branch <span class="code">properties-group</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98e3dfe</div>
-                                        <div class="message">fix input feed</div>
+                                        <div class="sha">#5b1d18d</div>
+                                        <div class="message">add cache</div>
                                     </div>
                                 </div>
                             </section>
@@ -702,14 +702,14 @@ fix input feed</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#be4d1da</div>
-                                        <div class="message">Merge pull request #752 from keyrustunisie/properties-group
+                                        <div class="sha">#bf19262</div>
+                                        <div class="message">Merge pull request #754 from keyrustunisie/properties-group
 
-fix input feed</div>
+add cache</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#32f00de</div>
-                                        <div class="message">fix input feed</div>
+                                        <div class="sha">#169bb48</div>
+                                        <div class="message">add cache</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +719,7 @@ fix input feed</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2024, 21:19:20 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2024, 22:18:11 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
