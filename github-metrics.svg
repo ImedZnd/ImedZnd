@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1640" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
     <defs>
         <style/>
     </defs>
@@ -615,15 +615,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0ed353b</div>
-                                        <div class="message">fix null pointer</div>
+                                        <div class="sha">#161b8dc</div>
+                                        <div class="message">Merge pull request #762 from keyrustunisie/fix-null-pointer
+
+fix script</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#828d26c</div>
+                                        <div class="message">fix script</div>
                                     </div>
                                 </div>
                             </section>
@@ -636,42 +642,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#760 Properties group</span>
+                                        <span class="issue">#762 fix script</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++63 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c565d2</div>
-                                        <div class="message">Merge pull request #760 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1762a1</div>
-                                        <div class="message">Merge branch 'refs/heads/dev' into properties-group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#175edaf</div>
-                                        <div class="message">add cache</div>
-                                    </div>
+                                    <div>4 files changed <span class="code">++4261 --7245</span></div>
                                 </div>
                             </section>
                         </div>
@@ -683,12 +659,12 @@ Properties group</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#760 Properties group</span>
+                                        <span class="issue">#762 fix script</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++63 --0</span></div>
+                                    <div>4 files changed <span class="code">++4261 --7245</span></div>
                                 </div>
                             </section>
                         </div>
@@ -699,131 +675,41 @@ Properties group</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 61 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">properties-group</span></div>
+                                    <div>on branch <span class="code">fix-null-pointer</span></div>
                                     <div class="commit">
-                                        <div class="sha">#43f05c6</div>
-                                        <div class="message">Merge pull request #709 from keyrustunisie/properties-group
+                                        <div class="sha">#828d26c</div>
+                                        <div class="message">fix script</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#533713a</div>
+                                        <div class="message">Merge pull request #761 from keyrustunisie/fix-null-pointer
 
-Properties group</div>
+fix null pointer</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f0c2aaf</div>
-                                        <div class="message">Merge pull request #708 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2738b19</div>
-                                        <div class="message">Merge pull request #707 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd54965</div>
-                                        <div class="message">Merge pull request #706 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d66a11f</div>
-                                        <div class="message">Merge pull request #705 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f65aeb</div>
-                                        <div class="message">Merge pull request #704 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2dc3cb</div>
-                                        <div class="message">Merge pull request #703 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e56da1d</div>
-                                        <div class="message">Merge pull request #702 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ec7e2b</div>
-                                        <div class="message">Merge pull request #699 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff9018d</div>
-                                        <div class="message">Merge pull request #698 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae90c1e</div>
-                                        <div class="message">Merge pull request #696 from keyrustunisie/properties-group
-
-remove logs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e643fa9</div>
-                                        <div class="message">Merge pull request #694 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f2ada2</div>
-                                        <div class="message">Merge pull request #693 from keyrustunisie/properties-group
-
-check output field exist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f54453b</div>
-                                        <div class="message">Merge pull request #692 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccaf625</div>
-                                        <div class="message">Merge pull request #691 from keyrustunisie/properties-group
-
-check output field exist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0bf7b4</div>
-                                        <div class="message">Merge pull request #690 from keyrustunisie/properties-group
-
-Properties group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ffe741</div>
-                                        <div class="message">Merge pull request #689 from keyrustunisie/properties-group
-
-check output field exist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#650e722</div>
-                                        <div class="message">Merge pull request #688 from keyrustunisie/properties-group
-
-check output field exist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1038cfd</div>
-                                        <div class="message">Merge pull request #687 from keyrustunisie/properties-group
-
-check output field exist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70cf6d4</div>
-                                        <div class="message">Merge pull request #686 from keyrustunisie/properties-group
-
-Properties group</div>
+                                        <div class="sha">#8078a61</div>
+                                        <div class="message">fix null pointer</div>
                                     </div>
                                 </div>
                             </section>
@@ -833,7 +719,7 @@ Properties group</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Oct 2024, 21:19:56 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Oct 2024, 22:16:31 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
