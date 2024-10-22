@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1341" class="">
     <defs>
         <style/>
     </defs>
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -432,7 +432,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        231
+                                        232
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,40 +622,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c817d6f</div>
-                                        <div class="message">Merge pull request #772 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#60a97a6</div>
+                                        <div class="message">Merge pull request #776 from keyrustunisie/fix-database-table-dynamic
 
-reload</div>
+add dynamic property to full tree</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d75f9bf</div>
-                                        <div class="message">reload</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">keyrustunisie/bff-dynamique</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c817d6f</div>
-                                        <div class="message">Merge pull request #772 from keyrustunisie/fix-database-table-dynamic
-
-reload</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d75f9bf</div>
-                                        <div class="message">reload</div>
+                                        <div class="sha">#568de96</div>
+                                        <div class="message">add dynamic property to full tree</div>
                                     </div>
                                 </div>
                             </section>
@@ -668,12 +642,12 @@ reload</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#772 reload</span>
+                                        <span class="issue">#776 add dynamic property to full tree</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++3 --3</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -685,12 +659,12 @@ reload</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#772 reload</span>
+                                        <span class="issue">#776 add dynamic property to full tree</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++3 --3</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -708,8 +682,38 @@ reload</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-database-table-dynamic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d75f9bf</div>
-                                        <div class="message">reload</div>
+                                        <div class="sha">#568de96</div>
+                                        <div class="message">add dynamic property to full tree</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">keyrustunisie/bff-dynamique</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0b1727a</div>
+                                        <div class="message">Merge pull request #775 from keyrustunisie/fix-database-table-dynamic
+
+Fix database table dynamic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb314b</div>
+                                        <div class="message">add dynamic property to full tree</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a9def83</div>
+                                        <div class="message">add dynamic property to full tree</div>
                                     </div>
                                 </div>
                             </section>
@@ -719,7 +723,7 @@ reload</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 00:17:49 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 02:20:54 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
