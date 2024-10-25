@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ef6319</div>
-                                        <div class="message">Merge pull request #786 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#a9c3d89</div>
+                                        <div class="message">Merge pull request #789 from keyrustunisie/fix-database-table-dynamic
 
 add i18n</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1187295</div>
+                                        <div class="sha">#ca7a9b1</div>
                                         <div class="message">add i18n</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add i18n</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#786 add i18n</span>
+                                        <span class="issue">#789 add i18n</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++79 --1</span></div>
+                                    <div>1 file changed <span class="code">++4 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add i18n</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#786 add i18n</span>
+                                        <span class="issue">#789 add i18n</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++79 --1</span></div>
+                                    <div>1 file changed <span class="code">++4 --4</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add i18n</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-database-table-dynamic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1187295</div>
+                                        <div class="sha">#ca7a9b1</div>
                                         <div class="message">add i18n</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ add i18n</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6bcd571</div>
-                                        <div class="message">Merge pull request #785 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#e0d3ab9</div>
+                                        <div class="message">Merge pull request #788 from keyrustunisie/fix-database-table-dynamic
 
 add i18n</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#38eb025</div>
+                                        <div class="sha">#e2b9232</div>
                                         <div class="message">add i18n</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ add i18n</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2024, 20:14:27 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2024, 21:19:57 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
