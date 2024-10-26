@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1341" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
     <defs>
         <style/>
     </defs>
@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#518ad80</div>
-                                        <div class="message">Merge pull request #793 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#0e405df</div>
+                                        <div class="message">Merge pull request #796 from keyrustunisie/fix-database-table-dynamic
 
 add i18n</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0442a5f</div>
+                                        <div class="sha">#740088a</div>
                                         <div class="message">add i18n</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add i18n</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#793 add i18n</span>
+                                        <span class="issue">#796 add i18n</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>1 file changed <span class="code">++12 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add i18n</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#793 add i18n</span>
+                                        <span class="issue">#796 add i18n</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                    <div>1 file changed <span class="code">++12 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add i18n</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-database-table-dynamic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0442a5f</div>
+                                        <div class="sha">#740088a</div>
                                         <div class="message">add i18n</div>
                                     </div>
                                 </div>
@@ -695,24 +695,20 @@ add i18n</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#23a3c9c</div>
-                                        <div class="message">Merge pull request #792 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#613cfe5</div>
+                                        <div class="message">Merge pull request #795 from keyrustunisie/fix-database-table-dynamic
 
-Fix database table dynamic</div>
+add i18n</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#90f9857</div>
-                                        <div class="message">add i18n</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f989eaa</div>
+                                        <div class="sha">#b750e16</div>
                                         <div class="message">add i18n</div>
                                     </div>
                                 </div>
@@ -723,7 +719,7 @@ Fix database table dynamic</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Oct 2024, 06:16:30 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Oct 2024, 07:23:35 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
