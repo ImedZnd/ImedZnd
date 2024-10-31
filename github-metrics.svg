@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1341" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
     <defs>
         <style/>
     </defs>
@@ -519,7 +519,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.57k
+                                        1.58k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#797dd87</div>
-                                        <div class="message">Merge pull request #805 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#5d39b92</div>
+                                        <div class="message">Merge pull request #806 from keyrustunisie/fix-database-table-dynamic
 
 add atoms-mols end point</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cd27c9c</div>
+                                        <div class="sha">#ee762be</div>
                                         <div class="message">add atoms-mols end point</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add atoms-mols end point</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#805 add atoms-mols end point</span>
+                                        <span class="issue">#806 add atoms-mols end point</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++0 --1</span></div>
+                                    <div>4 files changed <span class="code">++114 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add atoms-mols end point</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#805 add atoms-mols end point</span>
+                                        <span class="issue">#806 add atoms-mols end point</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++0 --1</span></div>
+                                    <div>4 files changed <span class="code">++114 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add atoms-mols end point</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-database-table-dynamic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cd27c9c</div>
+                                        <div class="sha">#ee762be</div>
                                         <div class="message">add atoms-mols end point</div>
                                     </div>
                                 </div>
@@ -695,24 +695,20 @@ add atoms-mols end point</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">keyrustunisie/bff-dynamique</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1854bf</div>
-                                        <div class="message">Merge pull request #804 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#797dd87</div>
+                                        <div class="message">Merge pull request #805 from keyrustunisie/fix-database-table-dynamic
 
-Fix database table dynamic</div>
+add atoms-mols end point</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#cf1571a</div>
-                                        <div class="message">add atoms-mols end point</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e94fc3</div>
+                                        <div class="sha">#cd27c9c</div>
                                         <div class="message">add atoms-mols end point</div>
                                     </div>
                                 </div>
@@ -723,7 +719,7 @@ Fix database table dynamic</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Oct 2024, 20:14:26 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2024, 21:17:56 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
