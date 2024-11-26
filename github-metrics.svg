@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7037013</div>
-                                        <div class="message">Merge pull request #861 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#ddce703</div>
+                                        <div class="message">Merge pull request #862 from keyrustunisie/fix-database-table-dynamic
 
 add DYNAMICCOMPONENTCHOOSE</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b21aec5</div>
+                                        <div class="sha">#489b24b</div>
                                         <div class="message">add DYNAMICCOMPONENTCHOOSE</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ add DYNAMICCOMPONENTCHOOSE</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#861 add DYNAMICCOMPONENTCHOOSE</span>
+                                        <span class="issue">#862 add DYNAMICCOMPONENTCHOOSE</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++63 --6</span></div>
+                                    <div>2 files changed <span class="code">++13 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ add DYNAMICCOMPONENTCHOOSE</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#861 add DYNAMICCOMPONENTCHOOSE</span>
+                                        <span class="issue">#862 add DYNAMICCOMPONENTCHOOSE</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++63 --6</span></div>
+                                    <div>2 files changed <span class="code">++13 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ add DYNAMICCOMPONENTCHOOSE</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-database-table-dynamic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b21aec5</div>
+                                        <div class="sha">#489b24b</div>
                                         <div class="message">add DYNAMICCOMPONENTCHOOSE</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ add DYNAMICCOMPONENTCHOOSE</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ebbe469</div>
-                                        <div class="message">Merge pull request #859 from keyrustunisie/fix-database-table-dynamic
+                                        <div class="sha">#7037013</div>
+                                        <div class="message">Merge pull request #861 from keyrustunisie/fix-database-table-dynamic
 
 add DYNAMICCOMPONENTCHOOSE</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7087d4c</div>
+                                        <div class="sha">#b21aec5</div>
                                         <div class="message">add DYNAMICCOMPONENTCHOOSE</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ add DYNAMICCOMPONENTCHOOSE</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2024, 15:19:15 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2024, 16:20:40 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
