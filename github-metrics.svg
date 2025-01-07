@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#68fdcb5</div>
-                                        <div class="message">Merge pull request #913 from keyrustunisie/fix-tree-dyn
+                                        <div class="sha">#4e1b691</div>
+                                        <div class="message">Merge pull request #914 from keyrustunisie/fix-tree-dyn
 
 debug multiple actions</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aac0d13</div>
+                                        <div class="sha">#ede1794</div>
                                         <div class="message">debug multiple actions</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ debug multiple actions</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#913 debug multiple actions</span>
+                                        <span class="issue">#914 debug multiple actions</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++21 --17</span></div>
+                                    <div>1 file changed <span class="code">++10 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ debug multiple actions</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#913 debug multiple actions</span>
+                                        <span class="issue">#914 debug multiple actions</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>3 files changed <span class="code">++21 --17</span></div>
+                                    <div>1 file changed <span class="code">++10 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ debug multiple actions</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-tree-dyn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aac0d13</div>
+                                        <div class="sha">#ede1794</div>
                                         <div class="message">debug multiple actions</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ debug multiple actions</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2df9eeb</div>
-                                        <div class="message">Merge pull request #912 from keyrustunisie/fix-tree-dyn
+                                        <div class="sha">#68fdcb5</div>
+                                        <div class="message">Merge pull request #913 from keyrustunisie/fix-tree-dyn
 
 debug multiple actions</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b122a13</div>
+                                        <div class="sha">#aac0d13</div>
                                         <div class="message">debug multiple actions</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ debug multiple actions</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 13:36:04 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 14:25:11 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
