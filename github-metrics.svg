@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -622,13 +622,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0ee26cd</div>
-                                        <div class="message">Merge pull request #923 from keyrustunisie/fix-tree-dyn
+                                        <div class="sha">#a0110a6</div>
+                                        <div class="message">Merge pull request #924 from keyrustunisie/fix-tree-dyn
 
 switch service</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#64e36f9</div>
+                                        <div class="sha">#2405d4a</div>
                                         <div class="message">switch service</div>
                                     </div>
                                 </div>
@@ -642,12 +642,12 @@ switch service</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#923 switch service</span>
+                                        <span class="issue">#924 switch service</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>2 files changed <span class="code">++207 --199</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,12 +659,12 @@ switch service</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#923 switch service</span>
+                                        <span class="issue">#924 switch service</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">keyrustunisie/bff-dynamique</span></div>
-                                    <div>1 file changed <span class="code">++1 --0</span></div>
+                                    <div>2 files changed <span class="code">++207 --199</span></div>
                                 </div>
                             </section>
                         </div>
@@ -682,7 +682,7 @@ switch service</div>
                                 <div class="details">
                                     <div>on branch <span class="code">fix-tree-dyn</span></div>
                                     <div class="commit">
-                                        <div class="sha">#64e36f9</div>
+                                        <div class="sha">#2405d4a</div>
                                         <div class="message">switch service</div>
                                     </div>
                                 </div>
@@ -702,13 +702,13 @@ switch service</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#169943f</div>
-                                        <div class="message">Merge pull request #922 from keyrustunisie/fix-tree-dyn
+                                        <div class="sha">#0ee26cd</div>
+                                        <div class="message">Merge pull request #923 from keyrustunisie/fix-tree-dyn
 
 switch service</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eb47dec</div>
+                                        <div class="sha">#64e36f9</div>
                                         <div class="message">switch service</div>
                                     </div>
                                 </div>
@@ -719,7 +719,7 @@ switch service</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2025, 00:16:45 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 02:17:42 (timezone Africa/Tunis) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
