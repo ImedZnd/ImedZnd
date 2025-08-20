@@ -44,12 +44,6 @@ Here are some of my badges from [Credly](https://www.credly.com/users/imed-zenne
 
 ---
 
-## 📈 GitHub Stats
-![Imed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImedZnd&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImedZnd&layout=compact&theme=tokyonight)
-
----
-
 ## ✨ Fun Fact
 I enjoy **brainstorming startup ideas**, creating **AI-assisted apps**, and **teaching kids tech through fun quizzes** 🎮📚
 
