@@ -14,7 +14,7 @@ I’m passionate about building scalable backend systems, APIs, and microservice
 ---
 
 ## 🌐 Connect With Me
-- 🏗 Portfolio: [imedzenned.netlify.app](https://imedzenned.netlify.app)  
+- 🏗 Portfolio: [https://imedzenned.dev](https://imedzenned.dev)  
 - 💼 LinkedIn: [linkedin.com/in/imedzenned](https://www.linkedin.com/in/imedzenned)  
 - 🎓 Certifications: [Credly Profile](https://www.credly.com/users/imed-zenned)  
 - 🧑‍💻 GitHub: [ImedZnd](https://github.com/ImedZnd)
