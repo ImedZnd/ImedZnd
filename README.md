@@ -44,8 +44,3 @@ Here are some of my badges from [Credly](https://www.credly.com/users/imed-zenne
 
 ---
 
-## ✨ Fun Fact
-I enjoy **brainstorming startup ideas**, creating **AI-assisted apps**, and **teaching kids tech through fun quizzes** 🎮📚
-
----
-
